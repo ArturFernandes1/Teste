@@ -9,4 +9,4 @@ function inverterString(str) {
 // Exemplo de uso
 const minhaString = 'Teste para estágio!';
 const stringInvertida = inverterString(minhaString);
-console.log(stringInvertida); // Saída: '!dlrow ,olleH'
+console.log(stringInvertida); // Saída: '!oigátse arap etseT'
